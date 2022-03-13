@@ -1,4 +1,4 @@
-<h1>Primeiro codigo Angular</h1>
+<h1>Primeiro projeto Angular</h1>
 
 <p>Com base no curso de Front-end pela Alura esse site foi desenvolvido com atenção maior no trabalho com CSS usando CSS GRID.</p>
 
