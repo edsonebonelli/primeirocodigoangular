@@ -1,6 +1,6 @@
 <h1>Primeiro projeto Angular</h1>
 
-<p>Com base no curso de Front-end pela Alura esse site foi desenvolvido com atenção maior no trabalho com CSS usando CSS GRID.</p>
+<p>Lista de Transferências</p>
 
 <h1>Development server</h1>
 
